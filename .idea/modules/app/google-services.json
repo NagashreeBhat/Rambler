@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216946170929",
+    "firebase_url": "https://rambler-58bd7.firebaseio.com",
+    "project_id": "rambler-58bd7",
+    "storage_bucket": "rambler-58bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216946170929:android:352c6103fb9f4d7c5f8910",
+        "android_client_info": {
+          "package_name": "com.example.rambler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216946170929-0g4d3l3j0qdo88a64j80m18hvrctpkms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rambler",
+            "certificate_hash": "94a72fc2fafd3601fe5e529365a9895efee1e137"
+          }
+        },
+        {
+          "client_id": "216946170929-mi6n9esdusk6g6j1crpb5lnivvnk3d2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42gU9yl8zOlWmmcjHQQS-4_IlhW50HT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216946170929-mi6n9esdusk6g6j1crpb5lnivvnk3d2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
