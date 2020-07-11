@@ -19,3 +19,6 @@ The project has two modeuls - Activities, Modules
 2. Under the Google API Console create a new/existing app with FitnessAPI enabled(use the client.json file/firebase connection)
 3. Enable acccess from Google Fit(it should have some data inorder for the app to display) else it throws a warning message of no steps found in Google Fit 
 
+![SplashScreen](https://github.com/NagashreeBhat/Rambler/blob/master/Screenshot_20200710-162610.png)
+![MainScreen In Ascending order of dates](https://github.com/NagashreeBhat/Rambler/blob/master/Screenshot_20200710-162552.png)
+![MainScreen with Descending order of dates](https://github.com/NagashreeBhat/Rambler/blob/master/Screenshot_20200710-162548.png)
